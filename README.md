@@ -4,3 +4,4 @@
 ![leather-armor](showcase-images/leather-armor.png)
 ![tools](showcase-images/tools.png)
 ![compass](showcase-images/compass.gif)
+![clock](showcase-images/clock.gif)
